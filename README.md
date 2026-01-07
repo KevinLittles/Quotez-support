@@ -35,7 +35,7 @@ You can clear your favorites and reading history within the app settings. To com
 ## Privacy & Terms
 
 - [Privacy Policy](https://kevinlittles.github.io/Quotez-privacy-policy/)
-- [Terms of Service](https://kevinlittles.github.io/Quotez-terms/)
+- [EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ---
 
